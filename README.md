@@ -1,2 +1,2 @@
 # what it does
-very basic stuffs.
+very basic stuffs!
